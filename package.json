@@ -1,0 +1,19 @@
+{
+  "name": "@ramselgonzalez/bundler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "Ramsel Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "@javascript-obfuscator/escodegen": "^2.3.0",
+    "espree": "^9.5.2",
+    "estraverse": "^5.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
